@@ -6,10 +6,10 @@ require 'socialite/version'
 Gem::Specification.new do |spec|
   spec.name          = "socialite"
   spec.version       = Socialite::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.authors       = ["Tyler Olson", "Mohit Ramchandani"]
+  spec.email         = ["tydotg@gmail.com", "mohitr35@yahoo.com"]
+  spec.description   = %q{Data from popular media outlets}
+  spec.summary       = %q{Data from popular media outlets}
   spec.homepage      = ""
   spec.license       = "MIT"
 
